@@ -1,4 +1,3 @@
-import string
 from time import sleep
 noteA = noteB = noteC = noteD = noteE = 0
 notes_list = []
